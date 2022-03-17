@@ -3,7 +3,7 @@ import (
 	"context"
 	"log"
 	"time"
-	"github.com/lirikl/reverse"
+	"github.com/Lirikl/reverse/pkg/proto/reverse"
 	"google.golang.org/grpc"
 	)
 	func main() {

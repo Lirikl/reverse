@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"log"
 	"net"
-	"github.com/lirikl/reverse"
+	"github.com/Lirikl/reverse"
 	"google.golang.org/grpc"
 )
 

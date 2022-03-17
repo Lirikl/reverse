@@ -1,6 +1,6 @@
 syntax = "proto3";
 package reverse;
-option go_package = "github.com/lirikl/reverse";
+option go_package = "github.com/Lirikl/reverse/pkg/proto/reverse";
 service Reverse {
 rpc Do(Request) returns (Response) {}
 }

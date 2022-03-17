@@ -1,8 +1,8 @@
-module reverse
+module github.com/Lirikl/reverse
 
 go 1.18
 
-replace github.com/lirikl/reverse => ./pkg/proto/reverse
+//replace github.com/Lirikl/reverse => ./pkg/proto/reverse
 
 require (
 	github.com/golang/protobuf v1.5.2 // indirect
