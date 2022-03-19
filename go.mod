@@ -1,4 +1,4 @@
-module github.com/Lirikl/reverse
+module github.com/Lirikl/mafia
 
 go 1.18
 
